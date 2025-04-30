@@ -1,3 +1,9 @@
+import express, { Request, Response, json} from "express";
+import createApp from "./app";
 
-console.log("hello world!")
+const app = createApp();
+const port = process.env.PORT
 
+app.listen(port, () => {
+    console.log(`✅ Server running at port:${port}`);
+});
