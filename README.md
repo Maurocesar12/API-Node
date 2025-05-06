@@ -33,10 +33,10 @@ git clone https://github.com/Maurocesar12/API-Node.git
 
 ### 🛠️ Funcionalidades previstas
 
-Rotas RESTful
+- Rotas RESTful
 
-Middleware de tratamento de erros
+- Middleware de tratamento de erros
 
-Integração com banco de dados
+- Integração com banco de dados
 
-Estrutura pronta para autenticação
+- Estrutura pronta para autenticação
